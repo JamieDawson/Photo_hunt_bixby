@@ -1,5 +1,5 @@
 structure (Returned_suggestion) {
-  description (__DESCRIPTION__)
+  description (The struct that gets returned when you ask for a suggestion)
 
   property (Suggestion) {
     type (viv.core.Text)
