@@ -1,10 +1,13 @@
 var console = require("console");
-const CONTENT = require("/content.js");
+const CONTENT = require("content.js");
+var http = require('http')
 
 module.exports.function = function give_suggestion () {
   console.log(CONTENT);
 
-  var stuff = "hello"
+
+
+
 
   return stuff;
 }
