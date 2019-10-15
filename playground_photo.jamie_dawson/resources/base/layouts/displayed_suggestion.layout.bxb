@@ -1,0 +1,12 @@
+layout{
+  mode (Summary)
+  match: Give_suggestion (this)
+
+   content{
+     section{
+       content {
+         paragraph("#{value(this)}")
+       }
+     }
+   }
+}

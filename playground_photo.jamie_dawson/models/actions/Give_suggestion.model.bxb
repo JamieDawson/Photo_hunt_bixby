@@ -1,0 +1,13 @@
+action (Give_suggestion) {
+  type(Search)
+  description (gives a suggestion.)
+
+  collect {
+    input (text) {
+      type (viv.core.Text)
+      min (Optional) max (One)
+    }
+  }
+  
+  output (Returned_suggestion)
+}
