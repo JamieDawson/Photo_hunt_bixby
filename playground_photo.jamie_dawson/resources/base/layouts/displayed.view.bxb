@@ -1,0 +1,15 @@
+result-view{
+  match: Give_suggestion (this)
+
+  render{
+    layout{
+      section{
+        content {
+          paragraph{
+            value("#{value(this)}")
+          }
+        }
+      }
+    }
+  }
+}
