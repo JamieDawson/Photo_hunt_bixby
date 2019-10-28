@@ -1,6 +1,7 @@
 capsule-info {
   display-name (__DISPLAY_NAME__)
   developer-name (__COMPANY_NAME__)
+  dispatch-name (photo hunt)
   icon-asset (icon.png)
   description ("__DESCRIPTION__")
   website-url (https://example.com/)

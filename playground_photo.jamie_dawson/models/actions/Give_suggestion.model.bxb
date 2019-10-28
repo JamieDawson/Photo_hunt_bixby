@@ -9,5 +9,5 @@ action (Give_suggestion) {
 		//}
 	}
 	
-	output (Text)
+	output (All)
 }

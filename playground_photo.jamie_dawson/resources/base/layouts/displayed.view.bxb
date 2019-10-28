@@ -1,12 +1,15 @@
 result-view{
-  match: Give_suggestion (this)
+  match: All (this)
 
   render{
     layout{
       section{
         content {
           paragraph{
-            value("#{value(this)}")
+            value("#{value(this.text)}")
+          }
+          image{
+            url("#{value(this.random_pic.url)}")
           }
         }
       }
