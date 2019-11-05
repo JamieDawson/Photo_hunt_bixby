@@ -2,8 +2,14 @@ capsule-info {
   display-name (Photographer's Block)
   developer-name (Onyx Code)
   dispatch-name (Photographer's Block)
-  icon-asset (icon_image.png)
+  icon-asset (/images/icons/icon_image.png)
   description ("Photographer's Block gives photo suggestions to photographers. \n Take the Photographer's Block challenge and see if you can successfully photograph five of the suggestions in a row.")
- // website-url (https://example.com/)
- // terms-url (https://example.com/terms-of-use/)
+ // website-url (https://example.com/) //I don't have a website.
+ // terms-url (https://example.com/terms-of-use/)  //I'm not taking any personal info.
+
+ search-keywords{
+   keyword (photograph)
+   keyword (photography)
+   keyword (pictures)
+ }
 }

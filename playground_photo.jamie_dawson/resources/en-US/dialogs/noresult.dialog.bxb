@@ -1,0 +1,4 @@
+dialog (NoResult) {
+  match: All
+  template("I don't understand what you're asking. Please say show me a photo suggestion.")
+}

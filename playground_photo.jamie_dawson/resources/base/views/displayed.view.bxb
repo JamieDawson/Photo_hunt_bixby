@@ -1,0 +1,23 @@
+result-view{
+	match: All (this)
+	
+	render{
+		layout{
+			section{
+				content {
+					if(exists(this.random_pic.url)){
+						image{
+							url("#{value(this.random_pic.url)}")
+						}
+					}
+					// if (exists(this.text)){
+					// 	paragraph{
+					// 		value("#{value(this.text)}")
+					// 		style(Title_M)
+					// 	}
+					// }
+				}
+			}
+		}
+	}
+}

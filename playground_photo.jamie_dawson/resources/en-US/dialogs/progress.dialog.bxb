@@ -1,0 +1,4 @@
+dialog (Progress) {
+  match: All
+  template("Loading your photo suggestion.")
+}

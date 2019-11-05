@@ -1,0 +1,9 @@
+dialog (Result) {
+  match: All (this)
+  if (exists(this.text)){
+  template("#{value(this.text)}")
+
+
+
+  }
+}
