@@ -1,0 +1,10 @@
+train (t-ie8vos29t1y8kb9hguggd9rdl) {
+  utterance ([g:Give_suggestion] do you know what I can take a photo of)
+  plan (Y2BiECnISaxML8ovzUvRy0rMzUzVc8zJYVDAEHXPLEuNLy5NT08tLsnMz2NgBEIGKAaSAA==)
+  last-modified (1572932846622)
+}
+train (t-irlfn5r1s9pm9dtga06zjgzd9) {
+  utterance ([g:Give_suggestion] can you let me know what I should take a photo of)
+  plan (Y2BiECnISaxML8ovzUvRy0rMzUzVc8zJYVDAEHXPLEuNLy5NT08tLsnMz2NgBEIGKAaSAA==)
+  last-modified (1572932907998)
+}

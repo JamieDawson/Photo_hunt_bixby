@@ -1,7 +1,17 @@
+train (t-x4gd4udg06gqf22v24p2ormwb) {
+  utterance ([g:Give_suggestion] can you suggest my next photo)
+  plan (Y2BiECnISaxML8ovzUvRy0rMzUzVc8zJYVDAEHXPLEuNLy5NT08tLsnMz2NgBEIGKAaSAA==)
+  last-modified (1572932893753)
+}
 train (t-xl1lzah10rwkf95g8tdi4i9fd) {
   utterance ([g:Give_suggestion] suggest something to take a photo of)
   plan (Y2BiECnISaxML8ovzUvRy0rMzUzVc8zJYVDAEHXPLEuNLy5NT08tLsnMz2NgBEIGKAaSAA==)
   last-modified (1572931041894)
+}
+train (t-xrznfulynx7p6u7s0sdr19wo3) {
+  utterance ([g:Give_suggestion] can you give me something to take a photo of)
+  plan (Y2BiECnISaxML8ovzUvRy0rMzUzVc8zJYVDAEHXPLEuNLy5NT08tLsnMz2NgBEIGKAaSAA==)
+  last-modified (1572932862886)
 }
 train (t-xzpgxeixf7m39iogbaw85p0zf) {
   utterance ([g:Give_suggestion] what is my next photo)

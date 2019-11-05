@@ -3,3 +3,8 @@ train (t-tppqqrioy0e2b2tn2l0rws5q0) {
   plan (Y2BiECnISaxML8ovzUvRy0rMzUzVc8zJYVDAEHXPLEuNLy5NT08tLsnMz2NgBEIGKAaSAA==)
   last-modified (1572931010155)
 }
+train (t-tyby0lx6sqw2690h2wlkxyqb9) {
+  utterance ([g:Give_suggestion] can you suggest a photo idea)
+  plan (Y2BiECnISaxML8ovzUvRy0rMzUzVc8zJYVDAEHXPLEuNLy5NT08tLsnMz2NgBEIGKAaSAA==)
+  last-modified (1572932893237)
+}
