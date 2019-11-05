@@ -1,9 +1,9 @@
 capsule-info {
-  display-name (__DISPLAY_NAME__)
-  developer-name (__COMPANY_NAME__)
-  dispatch-name (photo hunt)
-  icon-asset (icon.png)
-  description ("__DESCRIPTION__")
-  website-url (https://example.com/)
-  terms-url (https://example.com/terms-of-use/)
+  display-name (Photographer's Block)
+  developer-name (Onyx Code)
+  dispatch-name (Photographer's Block)
+  icon-asset (icon_image.png)
+  description ("Photographer's Block gives photo suggestions to photographers. \n Take the Photographer's Block challenge and see if you can successfully photograph five of the suggestions in a row.")
+ // website-url (https://example.com/)
+ // terms-url (https://example.com/terms-of-use/)
 }

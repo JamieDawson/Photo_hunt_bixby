@@ -1,0 +1,10 @@
+train (t-zmeuny2811s6y1m9optinj2nv) {
+  utterance ([g:Give_suggestion] I need a photo suggestion)
+  plan (Y2BiECnISaxML8ovzUvRy0rMzUzVc8zJYVDAEHXPLEuNLy5NT08tLsnMz2NgBEIGKAaSAA==)
+  last-modified (1572931009724)
+}
+train (t-zsbra5hl1hv0gmijjaufxy3b9) {
+  utterance ([g:Give_suggestion] next picture idea)
+  plan (Y2BiECnISaxML8ovzUvRy0rMzUzVc8zJYVDAEHXPLEuNLy5NT08tLsnMz2NgBEIGKAaSAA==)
+  last-modified (1572931153723)
+}

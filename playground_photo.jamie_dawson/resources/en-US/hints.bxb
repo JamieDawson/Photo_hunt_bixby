@@ -1,5 +1,7 @@
 hints {
   uncategorized {
-    hint (in photo hunt show me a photo)
+    hint (In Photographer's Block, show me a photo suggestion)
+    hint (Ask Photographer's Block for a photo suggestion)
+    hint (With Photographer's Block, what should I photograph)
   }
 }

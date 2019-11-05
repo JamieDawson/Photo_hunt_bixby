@@ -1,0 +1,10 @@
+train (t-fd97e7y4m0q4i907rtqz8i235) {
+  utterance ([g:Give_suggestion] tell me what to photograph)
+  plan (Y2BiECnISaxML8ovzUvRy0rMzUzVc8zJYVDAEHXPLEuNLy5NT08tLsnMz2NgBEIGKAaSAA==)
+  last-modified (1572930992691)
+}
+train (t-fph6crbwpy5h2pyawwlqaszk8) {
+  utterance ([g:Give_suggestion] what is my next picture going to be)
+  plan (Y2BiECnISaxML8ovzUvRy0rMzUzVc8zJYVDAEHXPLEuNLy5NT08tLsnMz2NgBEIGKAaSAA==)
+  last-modified (1572931155026)
+}

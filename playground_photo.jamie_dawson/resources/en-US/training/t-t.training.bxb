@@ -1,0 +1,5 @@
+train (t-tppqqrioy0e2b2tn2l0rws5q0) {
+  utterance ([g:Give_suggestion] suggest something to photograph)
+  plan (Y2BiECnISaxML8ovzUvRy0rMzUzVc8zJYVDAEHXPLEuNLy5NT08tLsnMz2NgBEIGKAaSAA==)
+  last-modified (1572931010155)
+}

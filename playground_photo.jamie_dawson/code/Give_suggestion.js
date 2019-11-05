@@ -44,7 +44,7 @@ module.exports.function = function give_suggestion () {
     "Take a photo of your favorite bird.",
     "Take a photo of the strangest looking bird in your city.",
     "Take a photo of your best friend",
-    "Take of  a photo of the first you've known the longest.",
+    "Take of a photo of the first you've known the longest.",
     "Take a photo of your parents doing something they love.",
     "Take a photo of your favorite candy.",
     "Take a photo of the candy you hate.",

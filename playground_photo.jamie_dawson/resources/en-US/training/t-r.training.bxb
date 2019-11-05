@@ -1,0 +1,10 @@
+train (t-rjki1e4ks5bitgtgic8ppc7u8) {
+  utterance ([g:Give_suggestion] photo suggestion)
+  plan (Y2BiECnISaxML8ovzUvRy0rMzUzVc8zJYVDAEHXPLEuNLy5NT08tLsnMz2NgBEIGKAaSAA==)
+  last-modified (1572930820317)
+}
+train (t-rpybbojw0jcx2g3sh0l55qg7k) {
+  utterance ([g:Give_suggestion] any photo suggestions)
+  plan (Y2BiECnISaxML8ovzUvRy0rMzUzVc8zJYVDAEHXPLEuNLy5NT08tLsnMz2NgBEIGKAaSAA==)
+  last-modified (1572931097794)
+}

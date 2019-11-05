@@ -1,0 +1,10 @@
+train (t-xl1lzah10rwkf95g8tdi4i9fd) {
+  utterance ([g:Give_suggestion] suggest something to take a photo of)
+  plan (Y2BiECnISaxML8ovzUvRy0rMzUzVc8zJYVDAEHXPLEuNLy5NT08tLsnMz2NgBEIGKAaSAA==)
+  last-modified (1572931041894)
+}
+train (t-xzpgxeixf7m39iogbaw85p0zf) {
+  utterance ([g:Give_suggestion] what is my next photo)
+  plan (Y2BiECnISaxML8ovzUvRy0rMzUzVc8zJYVDAEHXPLEuNLy5NT08tLsnMz2NgBEIGKAaSAA==)
+  last-modified (1572931097291)
+}
