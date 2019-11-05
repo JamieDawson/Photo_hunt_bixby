@@ -8,6 +8,6 @@ action (Give_suggestion) {
 		//	min (Optional) max (One)
 		//}
 	}
-	
+	//
 	output (All)
 }
