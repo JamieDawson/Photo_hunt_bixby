@@ -1,11 +1,8 @@
 endpoints {
-  
   action-endpoints {
      action-endpoint (Give_suggestion) {
       accepted-inputs ()
        local-endpoint (Give_suggestion.js)
     }
-
-
   }
 }

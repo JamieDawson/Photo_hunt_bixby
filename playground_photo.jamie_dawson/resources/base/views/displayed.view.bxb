@@ -10,12 +10,6 @@ result-view{
 							url("#{value(this.random_pic.url)}")
 						}
 					}
-					// if (exists(this.text)){
-					// 	paragraph{
-					// 		value("#{value(this.text)}")
-					// 		style(Title_M)
-					// 	}
-					// }
 				}
 			}
 		}
