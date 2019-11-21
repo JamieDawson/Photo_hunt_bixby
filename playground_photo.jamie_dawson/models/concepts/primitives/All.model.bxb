@@ -1,7 +1,6 @@
 structure (All) {
   description (struct for everything)
 
-
   property (text) {
     type (core.Text)
     min (Optional) max (One)
@@ -11,6 +10,4 @@ structure (All) {
     type (core.BaseImage)
     min (Optional) max (One)
   }
-
-
 }
